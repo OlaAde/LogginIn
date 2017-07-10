@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054777064697",
+    "firebase_url": "https://log-in-7b4c0.firebaseio.com",
+    "project_id": "log-in-7b4c0",
+    "storage_bucket": "log-in-7b4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054777064697:android:6bf3eb0c6d0c7ab2",
+        "android_client_info": {
+          "package_name": "com.example.adeogo.logginin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054777064697-o9bn4qsfhia5pjto81ocadu07ot6hclm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adeogo.logginin",
+            "certificate_hash": "b34a90baae620a857abef8626028cc77f5ee3f4b"
+          }
+        },
+        {
+          "client_id": "1054777064697-tlairjsnsc6v350gq7h5hpfdmua5bd6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB3QCssdBrCaaPbFiLMirn8NG9AVi92P8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054777064697-tlairjsnsc6v350gq7h5hpfdmua5bd6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
